@@ -1,9 +1,9 @@
 ---
 ---
 
-I'm **JP Acierno**, a Software Engineer.
+I'm **JP Acierno**, a Software Developer.
 
-I love all things computer science and maths.
+I love all things science and technology.
 
 Have a look at some of my working [projects].
 

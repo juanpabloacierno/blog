@@ -21,7 +21,8 @@ theme = "hugo-sustain"
   custom_js  = []
 
 [params.social]
-  Github        = "jpacierno"
+  Github        = "juanpabloacierno"
+  Gitlab        = "jpacierno"
   Email         = "juanpabloacierno@gmail.com"
   Twitter       = "jpacierno"
   LinkedIn      = "username"
