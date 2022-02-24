@@ -5,7 +5,7 @@ title = 'JP Acierno personal site'
 # Enable comments by entering your Disqus shortname
 disqusShortname = "juanpabloacierno"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "G-WKX82C54XT"
 theme = "hugo-sustain"
 
 [permalinks]
@@ -13,8 +13,8 @@ theme = "hugo-sustain"
 
 [params]
   avatar = "img/profile.png"
-  author = "Chris Turner"
-  description = "Describe your website"
+  author = "JP Acierno"
+  description = "JP Acierno personal site"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
@@ -25,23 +25,23 @@ theme = "hugo-sustain"
   Gitlab        = "jpacierno"
   Email         = "juanpabloacierno@gmail.com"
   Twitter       = "jpacierno"
-  LinkedIn      = "username"
+  LinkedIn      = "jpacierno"
   #Stackoverflow = "username"
   #Medium        = "username"
   Telegram      = "jpacierno"
   RSS           = "/blog/index.xml"
 
 ## Main Menu
-[[menu.main]]
-  name = "blog"
-  weight = 100
-  identifier = "blog"
-  url = "/blog/"
-[[menu.main]]
-  name = "projects"
-  identifier = "projects"
-  weight = 200
-  url = "/projects/"
+# [[menu.main]]
+#   name = "blog"
+#   weight = 100
+#   identifier = "blog"
+#   url = "/blog/"
+# [[menu.main]]
+#   name = "projects"
+#   identifier = "projects"
+#   weight = 200
+#   url = "/projects/"
 [[menu.main]]
   name = "resume"
   identifier = "resume"
