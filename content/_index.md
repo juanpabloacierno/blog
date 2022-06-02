@@ -7,7 +7,7 @@ I love all things science and technology.
 
 <!-- Have a look at some of my working [projects]. -->
 
-For more, check out professional [resume].
+For details about my background, check out my professional [resume].
 
 Contact me at [@jpacierno] or by [email].
 
