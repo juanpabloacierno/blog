@@ -48,7 +48,7 @@ theme = "hugo-sustain"
 #   weight = 200
 #   url = "/projects/"
 [[menu.main]]
-  name = "resume"
+  name = "JP's resume"
   identifier = "resume"
   weight = 300
   url = "/resume/"
