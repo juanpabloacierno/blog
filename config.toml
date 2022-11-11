@@ -1,4 +1,6 @@
-baseURL = 'https://jpacierno.info/'
+#baseURL = 'https://jpacierno.info/'
+baseURL = 'https://juanpabloacierno.github.io/'
+
 languageCode = 'en-us'
 title = 'JP Acierno personal site'
 
